@@ -18,9 +18,10 @@ Data Source: Access to the underlying banking data. This project assumes the dat
 Installation Instructions
 Clone the Repository:
 
-git clone https://github.com/utkarsh2387/Banking-PowerBI-project-.git
-cd Banking-PowerBI-project-
-Open the Power BI Project:
+## Open the Power BI Project
+
+1. Download `PowerBI Banking Project.pbix` from this repository.
+2. Open it in Power BI Desktop.
 
 Launch Power BI Desktop.
 Navigate to the cloned repository directory.
