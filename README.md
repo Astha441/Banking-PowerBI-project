@@ -1,15 +1,21 @@
 Banking Power BI Project
+
 This project provides a comprehensive Power BI dashboard solution for analyzing banking data. It offers insights into key performance indicators (KPIs), customer behavior, and overall financial performance.
 
 Features and Functionality
+
 Interactive Dashboards: Provides dynamic dashboards to visualize key banking metrics.
 Data Analysis: Enables in-depth analysis of customer demographics, transaction patterns, and loan performance.
 KPI Tracking: Monitors essential KPIs such as customer acquisition cost, loan default rates, and customer lifetime value.
 Report Generation: Generates insightful reports based on the analyzed data.
 Data Visualization: Offers a range of visualizations, including charts, graphs, and maps, to present data effectively.
+
 Technology Stack
+
 Power BI: Data visualization and business intelligence tool.
+
 Prerequisites
+
 To use this project, you will need:
 
 Power BI Desktop: Installed on your machine. Download the latest version from the Microsoft Power BI website.
